@@ -20,4 +20,4 @@ In a nutshell, we can help you develop ML- or NLP-enabled solutions in the follo
 
 We plan our work in stages — 1-2 months each — that are expected to be documented, integrated, and accepted before moving on to the next one. The main value to you is access to high-quality low-risk (in terms of time and allocated resources) advanced R&D services without the need to grow/expand an in-house team. Although, obviously, we can as well complement the efforts of the in-house R&D team and help its growth.
 
-If you're interested, please, write to <info@m8nware.com>
+If you're interested in cooperating with us, please, write to <info@m8nware.com>
