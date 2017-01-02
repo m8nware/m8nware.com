@@ -1,0 +1,41 @@
+BODY {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}
+TD, TH {
+    vertical-align: top;
+}
+DIV.header {
+    height: 500px;    
+    width: 100%;
+    text-align: center;
+}
+DIV.footer {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+DIV.body {
+    font-family: Droid Sans, Helvetice, Sans;
+    margin: 0 200 0 200;
+}
+DIV.header A {
+    text-decoration: none;
+    color: white;
+    text-shadow: 1px 1px grey;
+}
+DIV.m8nware {
+    padding-top: 350px;
+    margin-bottom: 25px;
+}
+DIV.m8nware A {
+    font-size: 60px;
+}
+NAV A {
+    margin: 25px;
+}
+A.selected {
+    border: 1px white;
+}
