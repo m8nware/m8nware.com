@@ -5,7 +5,7 @@
 (defmacro defpage (path (&key title style script bgimage)
                    &body body)
   `(with-out-file (out (system-relative-pathname
-                        :m8n-site (fmt "static/~A.html" ,path)))
+                        :m8n-site (fmt "docs/~A.html" ,path)))
      (write-line
       (who:with-html-output-to-string (,(gensym))
         (:html
