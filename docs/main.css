@@ -38,4 +38,7 @@ NAV A {
 }
 A.selected {
     border: 1px white;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 2px solid white;
 }
